@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or feature requests:
 - Create an issue on GitHub
-- Contact: [f219462@nu.edu.pk | f219463@nu.edu.pk]
+- Contact: [f219462@cfd.nu.edu.pk | f219463@cfd.nu.edu.pk]
 
 ## 🙏 Acknowledgments
 
