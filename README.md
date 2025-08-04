@@ -37,7 +37,7 @@ A comprehensive JavaFX-based warehouse management application designed for effic
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/warehouse-management-system.git
+git clone https://github.com/AbubakarMahmood1/InventoryManagementSystemOOP.git
 cd warehouse-management-system
 ```
 
@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or feature requests:
 - Create an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: [f219462@nu.edu.pk | f219463@nu.edu.pk]
 
 ## 🙏 Acknowledgments
 
