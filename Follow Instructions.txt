@@ -1,0 +1,21 @@
+Extract the openjfx-22.0.2_windows-x64_bin-sdk to
+
+C:\JavaFX
+
+and it should look like this afterwards
+
+C:\JavaFX\javafx-sdk-22.0.2
+
+Install, Java 22, and it should look like this
+
+C:\Program Files\Java\jdk-22
+
+Add both "C:\JavaFX\javafx-sdk-22.0.2", and "C:\Program Files\Java\jdk-22' to path under system variables.
+
+In case you want to run the application using NetBeans for presentation purpose, Install NetBeans 25/26, and put 
+
+--module-path "C:\JavaFX\javafx-sdk-22.0.2\lib" --add-modules javafx.controls,javafx.fxml
+
+under run VM Options, found through right click on project -> Properties -> Run tab.
+
+Otherwise just use run.bat instead.
